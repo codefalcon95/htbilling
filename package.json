@@ -1,0 +1,17 @@
+{
+  "name": "htbilling",
+  "version": "1.0.0",
+  "description": "A demo server to simulate asynchronous request",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanni Moshood Abiola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
